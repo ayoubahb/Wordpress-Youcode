@@ -1,4 +1,4 @@
-##Installation
+# Installation
 
 1- Téléchargez le fichier zip contenant votre application WordPress.
 2- Extrayez le contenu du fichier zip dans le répertoire racine de votre site web.
